@@ -25,10 +25,11 @@
 */
 
 .header {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   margin-bottom: 4rem;
   font-family: $sans-serif-font-family;
+  font-weight: normal;
 }
 
 .header a:hover {
@@ -38,7 +39,7 @@
 .header-title a {
   font-size: 3rem;
   text-decoration: none;
-  color: $body-color;
+  color: $title-color;
 }
 
 .header-subtitle {
@@ -109,5 +110,5 @@
   margin-bottom: 1rem;
   color: $light-gray-color;
   font-family: $sans-serif-font-family;
-  font-size:0.8rem;
+  font-size:1rem;
 }
