@@ -7,10 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-
-
 - {name: 'Home',   url: 'index.html'}
-## {name: 'Projects',   url: 'projects.html'}
+- {name: 'Projects',   url: 'projects.html'}
 ##- {name: 'Writing', url: 'writing.html'}
 ## {name: 'Contact', url: 'contact.html'}
 

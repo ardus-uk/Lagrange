@@ -11,7 +11,9 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
+paginate_path: "/_posts/:num/"
 paginate:            5
+
 
 # Build settings
 markdown:            kramdown
@@ -22,7 +24,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Rachael Schofield'
 sub-title:           'Wayfinding strategy and design management'
-description:	       'Wayfinding strategy and design management'
+description:	       'Independent freelance consultancy in wayfinding strategy and design'
 author:              'Rachael Schofield'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

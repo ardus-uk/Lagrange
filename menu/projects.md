@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Home
+layout: page
+title: Projects
 permalink: /projects
 ---
-## Something here
+{% include project_list.md %}
